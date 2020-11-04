@@ -38,7 +38,7 @@
 
     <properties>
         <assertj.version>2.6.0</assertj.version>
-        <bouncycastle.version>1.57</bouncycastle.version>
+        <bouncycastle.version>1.61</bouncycastle.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
